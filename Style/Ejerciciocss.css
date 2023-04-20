@@ -1,0 +1,51 @@
+body{
+    background-image: url(../imagen/artemis.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+text-align: center;
+font-size: 70px;
+color: black;
+
+}
+
+img{
+    border-radius: 30%;
+    border-color: black;
+    border-style: ridge;
+    border-width: 10px;
+}
+*{
+   color: white;
+    
+}
+h2{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
